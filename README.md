@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
 <h3 align="center">An enthusiastic Backend developer from India <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist_1f468-200d-1f4bb.png" width="30" height = "30"></h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-1001&label=Profile%20views&color=0e75b6&style=flat"
-        alt="tushar-1001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ccankit&label=Profile%20views&color=0e75b6&style=flat"
+        alt="ccankit" /> </p>
 <img align="right" alt="GIF"
     src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" width="450"
     height="300" /> <br />
