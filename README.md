@@ -12,16 +12,17 @@
 - 👯 I’m looking to collaborate for **more backend projects** <br>
 - 🤝 I’m looking for help to **enhance my skills** <br>
 - 💬 Ask me about **JavaScript,Backend topics.** <br>
+- ⭐ Aspiring to be a **M.E.R.N Full Stack Developer** <br>
 - 📫 How to reach me `ankitgupta9828@gmail.com` <br>
-- 📄 Know about my experiences - https://github.com/CCAnkit
+- 📄 Know about my experiences - https://ccankit.github.io/CCAnkit.github.io/
 
 
     <h3><span>Connect with me:</span> </h3>
 <p align="left" target="_blank">
         <a target = '_blank' href="https://www.linkedin.com/in/ankit-gupta-7a8038a5" >
-            <img alt=" Linkedin" align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="5%" height="5%" target="_blank">
+            <img alt=" Linkedin" align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="6%" height="6%" target="_blank">
         <a />
-        <a href="https://twitter.com/tushar7737" >
+        <a href="https://twitter.com/ankitgupta9828" >
             <img alt=" twitter" align="center" src="https://aloharag-hi-ny-jp.typepad.com/.a/6a0120a6c95938970b0148c785497f970c-580wi" width="70" height="60" target="_blank">
         <a />
         <a href="https://instagram.com/vipervill_007" target="blank">
