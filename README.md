@@ -6,7 +6,6 @@
     src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" width="450"
     height="300" /> <br />
 <p>&nbsp;<br /></p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me!+&#129321;)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Some backend projects** <br>
 - 🌱 I’m currently learning **NodeJs,Express,MongoDB,AWS,Redis** <br>
@@ -21,7 +20,7 @@
     <h3><span>Connect with me:</span> </h3>
 <p align="left" target="_blank">
         <a target = '_blank' href="https://www.linkedin.com/in/ankit-gupta-7a8038a5" >
-            <img alt=" Linkedin" align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="6%" height="6%" target="_blank">
+            <img alt=" Linkedin" align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="5.5%" height="5.5%" target="_blank">
         <a />
         <a href="https://twitter.com/ankitgupta9828" >
             <img alt=" twitter" align="center" src="https://aloharag-hi-ny-jp.typepad.com/.a/6a0120a6c95938970b0148c785497f970c-580wi" width="70" height="60" target="_blank">
