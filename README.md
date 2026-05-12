@@ -1,3 +1,112 @@
+<h1 align="center">Hi, I'm Ankit Gupta 👋</h1>
+
+<p align="center">
+  <strong>Backend Engineer · Aspiring Software Architect</strong><br/>
+  <em>Building production Node.js / Nest.js services and AI-integrated SaaS platforms.</em><br/>
+  📍 Dublin, Ireland · 🇮🇪 Stamp 1G · Open to Critical Skills Permit roles
+</p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccankit&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitGupta" /> </p> -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ccankit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://ccankit.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1F3A93?style=flat-square&logo=githubpages&logoColor=white"></a>
+  <a href="mailto:ccankitt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/ankitgupta9828"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
+</p>
+
+
+---
+
+<!-- <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
+
+### 🚀 Currently Building
+
+**Customer Churn Prediction — Multi-Tenant ML SaaS** *(MSc Capstone @ DCU, 2025–2026)*
+
+A B2B SaaS that lets companies upload datasets directly or connect their production database, returning per-customer churn predictions and personalised retention recommendations powered by ML + an LLM explanation layer.
+
+> **Stack:** React · Node.js · Python · Scikit-learn · OpenAI API · PostgreSQL
+
+🎓 Graduating from **Dublin City University**, MSc in Computing (Data Analytics & Artificial Intelligence) on **2026**.
+
+---
+
+### 🛠 Stack I Build In
+
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+</p>
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+</p>
+<p>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+</p>
+
+---
+
+### 💼 Where I've Worked
+
+**Mantra Labs · Software Engineer (Backend)** *— Aug 2022 – Jul 2024*
+Backend / full-stack across one client engagement and two internal SaaS tools — Miles Education ed-tech (50+ APIs, 50% latency reduction), an AI marketing tool combining Bing AI + ChatGPT, and Mantra Ace, a resource-management SaaS used by 300+ employees company-wide.
+🏆 *Star of the Month* (×2, May & Nov 2023)
+
+**FunctionUp · Backend Developer & Technical Mentor** *— Jul 2021 – Aug 2022*
+MERN-stack platform features (Redis caching, AWS S3 + Lambda) plus mentoring 100+ students per cohort. Promoted to Technical Mentor in April 2022.
+🏆 *Ranked #1* in CodeZinger Thorium Batch 2022
+
+---
+
+### 🎯 What I'm Pursuing Next
+
+- **AWS Certified Solutions Architect — Associate** (target Aug 2026)
+- **Backend / Cloud / Platform Engineering** roles in Dublin
+- Long-term path to **Software Architecture**
+
+---
+
+### 📫 Reach Me
+
+- 📧 **[ccankitt@gmail.com](mailto:ccankitt@gmail.com)**
+- 💼 **[linkedin.com/in/ccankit](https://www.linkedin.com/in/ccankit)**
+- 🌐 **Portfolio:** [ccankit.github.io](https://ccankit.github.io)
+
+<br/>
+
+<p align="center">
+  <img alt="Ankit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CCAnkit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCAnkit&layout=compact&hide_border=true">
+</p>
+
+
+<p><a href="https://www.buymeacoffee.com/ccankit"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ccankit" /></a></p><br>
+
+<p align="center" > If you find my work good, consider giving it a ⭐ to show some ❤️!</p>
+
+
+
+
+
+<!-- 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Ankit Gupta </h1>
@@ -81,3 +190,6 @@ c<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?us
 
 <p><a href="https://www.buymeacoffee.com/ccankit"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ccankit" /></a></p><br>
 <p align="center" > If you find my work good, consider giving it a ⭐ to show some ❤️!</p>
+-->
+
+
