@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ccankit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ccankit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"></a>
   <a href="https://ccankit.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1F3A93?style=flat-square&logo=githubpages&logoColor=white"></a>
   <a href="mailto:ccankitt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://leetcode.com/ankitgupta9828"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
@@ -109,18 +109,12 @@ Ranked #1 in CodeZinger Thorium Batch 2022.
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 </p>
 
-### Education
+### Education and certifications
 
-MSc in Computing (Artificial Intelligence), Dublin City University, Sep 2024 to Jun 2026. First Class Honours. My thesis was ChurnX AI.
-
-Bachelor of Computer Applications (BCA), Jaipur National University, Aug 2018 to Nov 2022.
-
-### Certifications and awards
-
+- MSc in Computing (Artificial Intelligence), Dublin City University, Sep 2024 to Jun 2026, First Class Honours
+- Bachelor of Computer Applications (BCA), Jaipur National University, Aug 2018 to Nov 2022
 - AWS Certified Solutions Architect, Associate
 - Google AI Professional, Grow with Google Ireland
-- AWS Lambda, AWS
-- Git and GitHub Advanced, Udemy
 - Best Design Award at the DCU FIRST LEGO League Hackathon, for an autonomous robot I built and programmed in Python
 
 ### What I'm looking for
@@ -136,10 +130,6 @@ AI engineer, backend engineer and software engineer roles in Dublin. Longer term
 <br/>
 
 <p align="center">
-  <img alt="Ankit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CCAnkit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
+  <img alt="Ankit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CCAnkit&show_icons=true&hide_border=true&include_all_commits=true">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCAnkit&layout=compact&hide_border=true">
 </p>
-
-<p><a href="https://www.buymeacoffee.com/ccankit"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ccankit" /></a></p><br>
-
-<p align="center">If you find my work good, consider giving it a ⭐ to show some ❤️!</p>
